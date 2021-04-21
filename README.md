@@ -11,7 +11,7 @@ Análisis, diseño y desarrollo de software. Siempre aprendiendo.
 - Desarrollo de sitios autoadministrables con Wordpress.
 - Administración y mantenimiento de entornos web en general.
 
-📫 http://www.lucianoposada.com.ar
+📫 http://www.lucianoposada.com.ar <br>
 📫 https://www.linkedin.com/in/luciano-posada/
 
 ⚡ Hincha de Boca, cómo Diego y Román. Arquero.
