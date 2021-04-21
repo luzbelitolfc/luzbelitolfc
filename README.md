@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi 👋 soy Lucho
+# Analista de Sistemas / Full Stack Developer
 
-<!--
-**luzbelitolfc/luzbelitolfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Análisis, diseño y desarrollo de software. Siempre aprendiendo.
 
-Here are some ideas to get you started:
+- Lenguajes de Programación: PL/SQL, Delphi, C#, ASP.NET, Javascript, PHP. 
+- Gestores de Base de Datos: Oracle, SQL Server y MySQL.
+- Diseño y desarrollo de Páginas Web PHP, HTML5, JavaScript y CSS3.
+- APIs RESTFull
+- Diseño de Aplicaciones Móviles con Flutter. 
+- Desarrollo de sitios autoadministrables con Wordpress.
+- Administración y mantenimiento de entornos web en general.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 http://www.lucianoposada.com.ar
+📫 https://www.linkedin.com/in/luciano-posada/
+
+⚡ Hincha de Boca, cómo Diego y Román. Arquero.
